@@ -8,7 +8,7 @@ Open-source data architectures and digital infrastructure designed for agroecolo
 
 The **Community Land & Food** project provides open-source systems designed to meet the operational, ecological, and governance needs of land-based communities, agroecological holdings, and regional food networks. 
 
-Conventional agricultural and commercial software often assumes monocultural production, corporate corporate structures, and linear supply chains. This project develops data models and software capable of representing polycultures, permaculture zonation, complex tenure arrangements, and cooperative distribution models with structural integrity.
+Conventional agricultural and commercial software often assumes monocultural production, corporate structures, and linear supply chains. This project develops data models and software capable of representing polycultures, permaculture zonation, complex tenure arrangements, and cooperative distribution models with structural integrity.
 
 ---
 
